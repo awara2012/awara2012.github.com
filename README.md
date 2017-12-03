@@ -1,5 +1,5 @@
 # awara2012.github.com
-To embrace the world! -- http://awara2012.github.com/
+To embrace the world! -- https://awara2012.github.com
 
 ## Blog列表：
 
